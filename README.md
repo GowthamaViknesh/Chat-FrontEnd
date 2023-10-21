@@ -6,7 +6,7 @@
 [![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-v5.0.0-yellow)](https://www.w3.org/)
 
 
-Welcome to CHAT-CAT, a real-time chat application powered by React.js, Chakra UI, Node.js, Express.js, and Socket.IO. This README provides an overview of the project, its features, installation instructions, and how to get involved.
+Welcome to CHAT-CAT, a real-time chat application powered by React.js, Chakra UI, Node.js, Express.js, and Socket.IO. This README provides an overview of the project, its features, and how to get involved.
 
 ## Overview
 
